@@ -45,3 +45,20 @@ li a {
 .content {
     color:aliceblue;
 }
+
+#table-thingy {
+    position:relative;
+    top:15px;
+    left:175px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:1em;
+}
+
+#img {
+    position:relative;
+    left:480px;
+}
+
+#intro {
+    text-align: center;
+}
